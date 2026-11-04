@@ -1,0 +1,11 @@
+
+POST http://localhost:8080/api/jobs
+Content-Type: application/json
+
+{
+  "companyName": "Google",
+  "jobRole": "Software Engineer Intern",
+  "status": "Applied",
+  "jobLocation": "Bengaluru",
+  "applicationDate": "2026-10-23"
+}
